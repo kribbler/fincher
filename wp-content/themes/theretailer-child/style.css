@@ -1,0 +1,69 @@
+/*
+Theme Name: The Retailer Child Theme
+Theme URI: http://theretailer.getbowtied.com/
+Description: This is a child theme for The Retailer.
+Author: Get Bowtied
+Author URI: http: //www.getbowtied.com/
+Template: theretailer
+Text Domain: theretailer-child
+Version: 1.8.6
+*/
+
+@import url("../theretailer/style.css");
+
+/****************************************************************/
+/*************** ADD YOUR CUSTOM CSS IN THIS AREA ***************/
+/****************************************************************/
+
+
+.gbtr_logo{
+	
+}
+
+.product_button{
+	height: 30px;
+}
+
+.product_item{
+	height: 320px;
+	margin-bottom: 10px !important;
+}
+
+.product-categories li a{
+    font-weight: bold;
+}
+
+.children li a {
+    font-weight: normal;
+}
+
+.gbtr_footer_wrapper{
+    display: none;
+}
+
+.search h1.entry-title, .search h1.page-title, .search h1.entry-title a, .search h1.page-title a{
+	margin-right: 230px !important;
+}
+#billing_address_2_field, #shipping_address_2_field{
+	display: none;
+}
+
+#outer_ul li a{
+	font-size: 15px;
+	line-height: 25px;
+}
+@media screen and (max-width: 959px) {
+	.search h1.entry-title,
+	.search h1.page-title,
+	.search h1.entry-title a,
+	.search h1.page-title a
+	{
+		text-align:center;
+		margin-right: 0 !important;
+	}
+}
+
+
+/****************************************************************/
+/****************************************************************/
+/****************************************************************/

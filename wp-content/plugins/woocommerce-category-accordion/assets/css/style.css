@@ -1,0 +1,46 @@
+#parent {
+	background:url('images/btn_show.png') no-repeat scroll 0 9px;
+	float: right;
+	height: 21px;
+	width: 19px;
+	cursor:pointer;
+}
+#outer_ul {
+	padding-left:6px;
+	width: auto;
+}
+#outer_ul li {
+	margin: 0 0 0 3px;
+	padding: 0 0 0 13px;
+	line-height: 25px;
+	background: url("images/arrow_item.gif") 0 12px no-repeat;
+	transition: all 200ms ease-in 0s;
+	list-style-type:none;
+}
+#outer_ul li a {
+	color:#737373;
+	text-decoration:none;
+	text-transform:capitalize;
+}
+#outer_ul li > ul > li {
+	border-bottom: 1px solid #EEEEEE;
+}
+#outer_ul li > ul:lastchild > li {
+border:none;
+}
+ul#outer_ul > li {
+	border-bottom: 1px solid #EEEEEE;
+}
+ul#outer_ul li.current-cat > a {
+	font-weight:bold;
+}
+ul#outer_ul li:first-child > a:first {
+background:#F9F9F9;
+font-weight: bold;
+}
+ul#outer_ul li.current-cat-parent a {
+	color:#737373;
+}
+ul#outer_ul li > ul > li:last-child {
+	border:none;
+}

@@ -1,0 +1,1659 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The Retailer Child Theme v1.8.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-03-21 05:39:09+0000\n"
+"Last-Translator: daniel <daniel.oraca@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Norwegian (Bokmål)\n"
+"X-Poedit-Country: NORWAY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:22
+#@ theretailer
+msgid "The page you are looking for does not exist. <br />Return to the"
+msgstr ""
+
+#: 404.php:22
+#@ theretailer
+msgid "home page"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:556
+#@ theretailer
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/front-end/options.php:43
+#: admin/front-end/options.php:67
+#@ theretailer
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/front-end/options.php:68
+#@ theretailer
+msgid "Options Reset"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:20
+#@ theretailer
+msgid "Options"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:210
+#@ theretailer
+msgid "Gallery"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:210
+#@ theretailer
+msgid "Previously Uploaded"
+msgstr ""
+
+#: archive.php:28
+#, php-format
+#@ theretailer
+msgid "Category Archives: \"%s\""
+msgstr ""
+
+#: archive.php:31
+#, php-format
+#@ theretailer
+msgid "Tag Archives: \"%s\""
+msgstr ""
+
+#: archive.php:38
+#, php-format
+#@ theretailer
+msgid "Author Archives: \"%s\""
+msgstr ""
+
+#: archive.php:46
+#, php-format
+#@ theretailer
+msgid "Daily Archives: \"%s\""
+msgstr ""
+
+#: archive.php:49
+#, php-format
+#@ theretailer
+msgid "Monthly Archives: \"%s\""
+msgstr ""
+
+#: archive.php:52
+#, php-format
+#@ theretailer
+msgid "Yearly Archives: \"%s\""
+msgstr ""
+
+#: archive.php:55
+#: sidebar-my_account.php:18
+#: sidebar.php:18
+#@ theretailer
+msgid "Archives"
+msgstr ""
+
+#: comments.php:32
+#, php-format
+#@ theretailer
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:39
+#: comments.php:59
+#@ theretailer
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:40
+#: comments.php:60
+#@ theretailer
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:41
+#: comments.php:61
+#@ theretailer
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:71
+#@ theretailer
+msgid "Comments are closed."
+msgstr ""
+
+#: content-aside.php:11
+#: content-audio.php:17
+#: content-gallery.php:17
+#: content-image.php:11
+#: content-quote.php:17
+#: content-single.php:37
+#: content-single.php:39
+#: content-status.php:11
+#: content-video.php:17
+#: content.php:43
+#: content.php:45
+#: content.php:46
+#@ theretailer
+msgid "Continue reading &raquo;"
+msgstr ""
+
+#: content-aside.php:13
+#: content-audio.php:19
+#: content-gallery.php:19
+#: content-image.php:13
+#: content-page.php:31
+#: content-quote.php:19
+#: content-single.php:43
+#: content-status.php:13
+#: content-video.php:19
+#: content.php:50
+#: inc/paginate.php:42
+#@ theretailer
+msgid "Pages:"
+msgstr ""
+
+#: content-aside.php:18
+#: content-audio.php:24
+#: content-gallery.php:24
+#: content-image.php:18
+#: content-quote.php:24
+#: content-single.php:12
+#: content-video.php:24
+#: content.php:12
+#: search.php:30
+#, php-format
+#@ theretailer
+msgid "View all posts by %s"
+msgstr ""
+
+#: content-aside.php:30
+#: content-audio.php:40
+#: content-gallery.php:40
+#: content-image.php:34
+#: content-page.php:32
+#: content-quote.php:40
+#: content-single.php:20
+#: content-status.php:19
+#: content-video.php:40
+#: content.php:22
+#@ theretailer
+msgid "Edit"
+msgstr ""
+
+#: content-audio.php:11
+#: content-gallery.php:11
+#: content-single.php:7
+#: content-video.php:11
+#: content.php:7
+#: search.php:25
+#, php-format
+#@ theretailer
+msgid "Permalink to %s"
+msgstr ""
+
+#: content-audio.php:36
+#: content-gallery.php:36
+#: content-image.php:30
+#: content-quote.php:36
+#: content-single.php:17
+#: content-video.php:36
+#: content.php:19
+#: functions.php:1518
+#: search.php:35
+#@ theretailer
+msgid "Leave a comment"
+msgstr ""
+
+#: content-audio.php:36
+#: content-gallery.php:36
+#: content-image.php:30
+#: content-quote.php:36
+#: content-single.php:17
+#: content-video.php:36
+#: content.php:19
+#: functions.php:1518
+#: search.php:35
+#@ theretailer
+msgid "1 Comment"
+msgstr ""
+
+#: content-audio.php:36
+#: content-gallery.php:36
+#: content-image.php:30
+#: content-quote.php:36
+#: content-single.php:17
+#: content-video.php:36
+#: content.php:19
+#: functions.php:1518
+#: search.php:35
+#@ theretailer
+msgid "% Comments"
+msgstr ""
+
+#: content-status.php:17
+#@ theretailer
+msgid "Status on"
+msgstr ""
+
+#: functions.php:32
+#@ theretailer
+msgid "Theme Options"
+msgstr ""
+
+#: functions.php:127
+#: inc/class-tgm-plugin-activation.php:155
+#@ theretailer
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:128
+#: inc/class-tgm-plugin-activation.php:156
+#@ theretailer
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:129
+#: inc/class-tgm-plugin-activation.php:157
+#, php-format
+#@ theretailer
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:130
+#@ theretailer
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:131
+#: inc/class-tgm-plugin-activation.php:159
+#, php-format
+#@ theretailer
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:132
+#: inc/class-tgm-plugin-activation.php:160
+#, php-format
+#@ theretailer
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:133
+#: inc/class-tgm-plugin-activation.php:161
+#, php-format
+#@ theretailer
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:134
+#: inc/class-tgm-plugin-activation.php:162
+#, php-format
+#@ theretailer
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:135
+#: inc/class-tgm-plugin-activation.php:163
+#, php-format
+#@ theretailer
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:136
+#: inc/class-tgm-plugin-activation.php:164
+#, php-format
+#@ theretailer
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:137
+#: inc/class-tgm-plugin-activation.php:165
+#, php-format
+#@ theretailer
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:138
+#: inc/class-tgm-plugin-activation.php:166
+#, php-format
+#@ theretailer
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:139
+#: inc/class-tgm-plugin-activation.php:167
+#@ theretailer
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:140
+#: inc/class-tgm-plugin-activation.php:168
+#@ theretailer
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:141
+#: inc/class-tgm-plugin-activation.php:169
+#@ theretailer
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:142
+#: inc/class-tgm-plugin-activation.php:171
+#: inc/class-tgm-plugin-activation.php:1840
+#@ theretailer
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:143
+#, php-format
+#@ theretailer
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:301
+#@ theretailer
+msgctxt "post type general name"
+msgid "Portfolio"
+msgstr ""
+
+#: functions.php:302
+#@ theretailer
+msgctxt "post type singular name"
+msgid "Portfolio Item"
+msgstr ""
+
+#: functions.php:303
+#@ theretailer
+msgctxt "Portfolio Item"
+msgid "Add New"
+msgstr ""
+
+#: functions.php:304
+#@ theretailer
+msgid "Add New Portfolio item"
+msgstr ""
+
+#: functions.php:305
+#@ theretailer
+msgid "Edit Portfolio item"
+msgstr ""
+
+#: functions.php:306
+#@ theretailer
+msgid "New Portfolio item"
+msgstr ""
+
+#: functions.php:307
+#@ theretailer
+msgid "All Portfolio items"
+msgstr ""
+
+#: functions.php:308
+#@ theretailer
+msgid "View Portfolio item"
+msgstr ""
+
+#: functions.php:309
+#@ theretailer
+msgid "Search Portfolio item"
+msgstr ""
+
+#: functions.php:310
+#@ theretailer
+msgid "No Portfolio item found"
+msgstr ""
+
+#: functions.php:311
+#@ theretailer
+msgid "No Portfolio item found in Trash"
+msgstr ""
+
+#: functions.php:1938
+#@ theretailer
+msgid "Get Directions"
+msgstr ""
+
+#: functions.php:2141
+#@ theretailer
+msgid "Top Header Menu"
+msgstr ""
+
+#: functions.php:2142
+#@ theretailer
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:2143
+#@ theretailer
+msgid "Secondary Menu"
+msgstr ""
+
+#: functions.php:2189
+#: functions.php:2290
+#: header_style_centered.php:107
+#: header_style_default.php:252
+#: header_style_menu_under.php:157
+#@ theretailer
+msgid "Shopping Bag"
+msgstr "Handlepose"
+
+#: functions.php:2205
+#: functions.php:2308
+#: header_style_centered.php:123
+#: header_style_default.php:270
+#: header_style_menu_under.php:175
+#@ theretailer
+msgid "Quantity:"
+msgstr ""
+
+#: functions.php:2207
+#: functions.php:2310
+#: header_style_centered.php:125
+#: header_style_default.php:272
+#: header_style_menu_under.php:177
+#: woocommerce/cart/cart.php:51
+#@ theretailer
+msgid "Remove this item"
+msgstr ""
+
+#: functions.php:2216
+#: functions.php:2319
+#: header_style_centered.php:134
+#: header_style_default.php:281
+#: header_style_menu_under.php:186
+#: woocommerce/cart/mini-cart.php:69
+#@ theretailer
+msgid "Cart subtotal"
+msgstr ""
+
+#: functions.php:2219
+#: functions.php:2322
+#: header_style_centered.php:137
+#: header_style_default.php:284
+#: header_style_menu_under.php:189
+#: woocommerce/cart/mini-cart.php:74
+#@ theretailer
+msgid "View Shopping Bag"
+msgstr ""
+
+#: functions.php:2221
+#: functions.php:2324
+#: header_style_centered.php:139
+#: header_style_default.php:286
+#: header_style_menu_under.php:191
+#: woocommerce/cart/cart.php:160
+#: woocommerce/cart/mini-cart.php:75
+#@ theretailer
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: functions.php:2224
+#: functions.php:2327
+#: header_style_centered.php:142
+#: header_style_default.php:289
+#: header_style_menu_under.php:194
+#: woocommerce/cart/mini-cart.php:61
+#@ theretailer
+msgid "No products in the shopping bag."
+msgstr ""
+
+#: functions.php:2291
+#: header_style_default.php:253
+#: header_style_menu_under.php:158
+#@ theretailer
+msgid "item(s)"
+msgstr ""
+
+#: functions.php:2375
+#@ theretailer
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:2384
+#@ theretailer
+msgid "Product listing"
+msgstr ""
+
+#: functions.php:2403
+#@ theretailer
+msgid "Light footer"
+msgstr ""
+
+#: functions.php:2423
+#@ theretailer
+msgid "Dark footer"
+msgstr ""
+
+#: header_style_centered.php:219
+#: header_style_default.php:154
+#: header_style_menu_under.php:59
+#@ theretailer
+msgid "Navigation"
+msgstr ""
+
+#: header_topbar.php:41
+#@ theretailer
+msgid "Logout"
+msgstr ""
+
+#: image.php:30
+#, php-format
+#@ theretailer
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at&nbsp;<a href=\"%3$s\" title=\"Link to full-size image\"> <i class=\"fa fa-picture-o\"></i>&nbsp; %4$s &times; %5$s</a> in &nbsp;<a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\"><i class=\"fa fa-folder-open\"></i>&nbsp; %7$s</a>"
+msgstr ""
+
+#: image.php:45
+#@ theretailer
+msgid "&larr; Previous"
+msgstr ""
+
+#: image.php:49
+#@ theretailer
+msgid "Next &rarr;"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:158
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:170
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:173
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:174
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1085
+#@ tgmpa
+msgid "External Link"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1090
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1093
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1097
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1100
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1100
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1103
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1105
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1275
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1291
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1292
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1293
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1294
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1312
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1313
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: inc/class-tgm-plugin-activation.php:1538
+#: inc/class-tgm-plugin-activation.php:172
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:1823
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1824
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1825
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1826
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1827
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1828
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1839
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1949
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1950
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1950
+#: inc/class-tgm-plugin-activation.php:1959
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1950
+#: inc/class-tgm-plugin-activation.php:1959
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1951
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1952
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1956
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1957
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1958
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1959
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1960
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1961
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2052
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/extras.php:75
+#, php-format
+#@ theretailer
+msgid "Page %s"
+msgstr ""
+
+#: inc/paginate.php:43
+#@ theretailer
+msgid "&raquo;"
+msgstr ""
+
+#: inc/paginate.php:43
+#@ theretailer
+msgid "&laquo"
+msgstr ""
+
+#: inc/template-tags.php:55
+#@ theretailer
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:55
+#: inc/template-tags.php:72
+#@ theretailer
+msgid "(Edit)"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:70
+#, php-format
+#@ theretailer
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:77
+#@ theretailer
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/widgets/connect.php:12
+#@ theretailer
+msgid "A widget that displays customized social icons "
+msgstr ""
+
+#: inc/widgets/connect.php:16
+#: inc/widgets/connect.php:80
+#@ theretailer
+msgid "The Retailer Connect"
+msgstr ""
+
+#: inc/widgets/connect.php:96
+#@ theretailer
+msgid "Widget title:"
+msgstr ""
+
+#: inc/widgets/connect.php:101
+#@ theretailer
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/widgets/connect.php:106
+#@ theretailer
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/widgets/connect.php:111
+#@ theretailer
+msgid "LinkedIn URL"
+msgstr ""
+
+#: inc/widgets/connect.php:116
+#@ theretailer
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/widgets/connect.php:121
+#@ theretailer
+msgid "Google+ URL"
+msgstr ""
+
+#: inc/widgets/connect.php:126
+#@ theretailer
+msgid "RSS URL"
+msgstr ""
+
+#: inc/widgets/connect.php:131
+#@ theretailer
+msgid "Tumblr URL"
+msgstr ""
+
+#: inc/widgets/connect.php:136
+#@ theretailer
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/widgets/connect.php:141
+#@ theretailer
+msgid "Youtube URL"
+msgstr ""
+
+#: inc/widgets/connect.php:146
+#@ theretailer
+msgid "Vimeo URL"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:17
+#@ theretailer
+msgid "A widget that displays recent posts "
+msgstr ""
+
+#: inc/widgets/recent-posts.php:21
+#@ theretailer
+msgid "The Retailer Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:41
+#@ theretailer
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:58
+#@ theretailer
+msgid "comments"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:94
+#@ theretailer
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:97
+#@ theretailer
+msgid "Number of posts to show:"
+msgstr ""
+
+#: no-results.php:14
+#@ theretailer
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:20
+#, php-format
+#@ theretailer
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:24
+#@ theretailer
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: no-results.php:29
+#@ theretailer
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: page-archive.php:19
+#@ theretailer
+msgid "The last posts"
+msgstr ""
+
+#: search.php:15
+#, php-format
+#@ theretailer
+msgid "Search Results for: \"%s\""
+msgstr ""
+
+#: searchform.php:10
+#: searchform.php:12
+#@ theretailer
+msgid "Search"
+msgstr ""
+
+#: searchform.php:11
+#@ theretailer
+msgid "Search &hellip;"
+msgstr ""
+
+#: sidebar-my_account.php:25
+#: sidebar.php:25
+#@ theretailer
+msgid "Meta"
+msgstr ""
+
+#: single-portfolio.php:27
+#@ theretailer
+msgid "Cat.:"
+msgstr ""
+
+#: single-portfolio.php:36
+#@ theretailer
+msgid "Description"
+msgstr ""
+
+#: woocommerce/archive-product.php:94
+#@ theretailer
+msgid "No products found which match your selection."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:17
+#: woocommerce/cart/empty.php:14
+#@ theretailer
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:18
+#: woocommerce/cart/empty.php:15
+#@ theretailer
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:16
+#, php-format
+#@ theretailer
+msgid "Shipping #%d"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:18
+#: woocommerce/cart/cart-shipping.php:93
+#: woocommerce/cart/totals.php:46
+#@ theretailer
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:55
+#@ theretailer
+msgid "No shipping methods were found; please recalculate your shipping or continue to checkout and enter your full address to see if there is shipping available to your location."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:59
+#@ theretailer
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:69
+#: woocommerce/cart/cart-shipping.php:77
+#, php-format
+#@ theretailer
+msgid "Sorry, shipping is unavailable %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:69
+#: woocommerce/cart/cart-shipping.php:77
+#: woocommerce/cart/totals.php:187
+#@ theretailer
+msgid "If you require assistance or wish to make alternate arrangements please contact us."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:16
+#: woocommerce/cart/totals.php:22
+#@ theretailer
+msgid "Shopping Bag Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:21
+#: woocommerce/cart/totals.php:28
+#: woocommerce/cart/totals.php:92
+#@ theretailer
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:75
+#: woocommerce/cart/cart.php:34
+#: woocommerce/cart/totals.php:129
+#: woocommerce/order/order-details.php:24
+#@ theretailer
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:87
+#: woocommerce/cart/totals.php:161
+#, php-format
+#@ theretailer
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:90
+#: woocommerce/cart/totals.php:163
+#, php-format
+#@ theretailer
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:13
+#, php-format
+#@ theretailer
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/cart/cart.php:13
+#@ theretailer
+msgid "found"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32
+#@ theretailer
+msgid "Item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33
+#@ theretailer
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:77
+#@ theretailer
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:139
+#@ theretailer
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141
+#@ theretailer
+msgid "Enter coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:142
+#@ theretailer
+msgid "Apply"
+msgstr ""
+
+#: woocommerce/cart/cart.php:158
+#@ theretailer
+msgid "Update Shopping Bag"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:58
+#@ theretailer
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/totals.php:35
+#@ theretailer
+msgid "Cart Discount"
+msgstr ""
+
+#: woocommerce/cart/totals.php:35
+#: woocommerce/cart/totals.php:120
+#@ theretailer
+msgid "[Remove]"
+msgstr ""
+
+#: woocommerce/cart/totals.php:110
+#@ theretailer
+msgid "Tax"
+msgstr ""
+
+#: woocommerce/cart/totals.php:120
+#@ theretailer
+msgid "Order Discount"
+msgstr ""
+
+#: woocommerce/cart/totals.php:145
+#, php-format
+#@ theretailer
+msgid "(Includes %s)"
+msgstr ""
+
+#: woocommerce/cart/totals.php:175
+#@ theretailer
+msgid "No shipping methods were found; please recalculate your shipping and enter your state/county and zip/postcode to ensure there are no other available methods for your location."
+msgstr ""
+
+#: woocommerce/cart/totals.php:187
+#, php-format
+#@ theretailer
+msgid "Sorry, it seems that there are no available shipping methods for your location (%s)."
+msgstr ""
+
+#: woocommerce/content-product-slider.php:110
+#: woocommerce/content-product-slider.php:127
+#@ theretailer
+msgid "Read More"
+msgstr ""
+
+#: woocommerce/content-product-slider.php:119
+#@ theretailer
+msgid "Select options"
+msgstr ""
+
+#: woocommerce/content-product-slider.php:123
+#@ theretailer
+msgid "View options"
+msgstr ""
+
+#: woocommerce/content-product-slider.php:131
+#@ theretailer
+msgid "Add to shopping bag"
+msgstr ""
+
+#: woocommerce/content-product.php:41
+#: woocommerce/content-single-product.php:122
+#@ theretailer
+msgid "Out of stock"
+msgstr ""
+
+#: woocommerce/content-single-product.php:16
+#@ theretailer
+msgctxt "slug"
+msgid "product-category"
+msgstr ""
+
+#: woocommerce/content-single-product.php:61
+#: woocommerce/content-single-product.php:168
+#@ theretailer
+msgid "Back to "
+msgstr ""
+
+#: woocommerce/content-single-product.php:101
+#: woocommerce/single-product/title.php:42
+#: woocommerce/single-product-reviews.php:23
+#@ theretailer
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/content-single-product.php:101
+#: woocommerce/single-product/title.php:42
+#, php-format
+#@ theretailer
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/content-single-product.php:101
+#: woocommerce/single-product/review.php:22
+#: woocommerce/single-product/title.php:42
+#@ theretailer
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/content-single-product.php:212
+#@ theretailer
+msgid "<span>Share</span> on Facebook"
+msgstr ""
+
+#: woocommerce/content-single-product.php:213
+#@ theretailer
+msgid "<span>Pin</span> this item"
+msgstr ""
+
+#: woocommerce/content-single-product.php:214
+#@ theretailer
+msgid "<span>Email</span> a friend"
+msgstr ""
+
+#: woocommerce/content-single-product.php:215
+#@ theretailer
+msgid "<span>Tweet</span> this item"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:12
+#@ theretailer
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:22
+#@ theretailer
+msgid "Default sorting"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:23
+#@ theretailer
+msgid "Sort by popularity"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+#@ theretailer
+msgid "Sort by average rating"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:25
+#@ theretailer
+msgid "Sort by newness"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:26
+#@ theretailer
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:27
+#@ theretailer
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:29
+#@ theretailer
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:31
+#, php-format
+#@ theretailer
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:33
+#, php-format
+#@ theretailer
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d–%2$d of %3$d results"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:28
+#: woocommerce/myaccount/form-login.php:47
+#: woocommerce/myaccount/form-login.php:124
+#@ theretailer
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:35
+#@ theretailer
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:39
+#: woocommerce/myaccount/form-login.php:87
+#@ theretailer
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:49
+#@ theretailer
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:53
+#@ theretailer
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:66
+#: woocommerce/myaccount/form-login.php:99
+#: woocommerce/myaccount/form-login.php:117
+#: woocommerce/myaccount/form-login.php:119
+#@ theretailer
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:75
+#@ theretailer
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:76
+#@ default
+msgid "username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:82
+#@ theretailer
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:83
+#@ default
+msgid "email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:88
+#@ default
+msgid "password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:92
+#@ theretailer
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:122
+#@ theretailer
+msgid "I'm a Returning Customer"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:15
+#@ theretailer
+msgid "To track your order please enter your Order ID in the box below and press return. This was given to you on your receipt and in the confirmation email you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+#@ theretailer
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+#@ theretailer
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+#@ theretailer
+msgid "Billing Email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+#@ theretailer
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:23
+#@ theretailer
+msgid "Track"
+msgstr ""
+
+#: woocommerce/order/order-details.php:19
+#@ theretailer
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:23
+#@ theretailer
+msgid "Product"
+msgstr ""
+
+#: woocommerce/order/order-details.php:67
+#, php-format
+#@ theretailer
+msgid "Download file%s"
+msgstr ""
+
+#: woocommerce/order/order-details.php:93
+#@ theretailer
+msgid "Order Again"
+msgstr ""
+
+#: woocommerce/order/order-details.php:100
+#@ theretailer
+msgid "Customer details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:104
+#@ theretailer
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/order/order-details.php:105
+#@ theretailer
+msgid "Telephone:"
+msgstr ""
+
+#: woocommerce/order/order-details.php:118
+#@ theretailer
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/order/order-details.php:122
+#: woocommerce/order/order-details.php:137
+#@ theretailer
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/order-details.php:133
+#@ theretailer
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/order/tracking.php:16
+#, php-format
+#@ theretailer
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/order/tracking.php:16
+#@ theretailer
+msgid "ago"
+msgstr ""
+
+#: woocommerce/order/tracking.php:18
+#@ theretailer
+msgid "and was completed"
+msgstr ""
+
+#: woocommerce/order/tracking.php:18
+#@ theretailer
+msgid " ago"
+msgstr ""
+
+#: woocommerce/order/tracking.php:29
+#@ theretailer
+msgid "Order Updates"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:27
+#@ theretailer
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:75
+#@ theretailer
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:105
+#@ theretailer
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:21
+#@ theretailer
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:26
+#@ theretailer
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:31
+#@ theretailer
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:93
+#@ theretailer
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:26
+#@ theretailer
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:33
+#@ theretailer
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/review.php:35
+#@ theretailer
+msgid "M jS Y"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:91
+#@ theretailer
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:21
+#, php-format
+#@ theretailer
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:34
+#@ theretailer
+msgid "Previous"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:35
+#@ theretailer
+msgid "Next"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:41
+#@ theretailer
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:48
+#@ theretailer
+msgid "Add Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+#@ theretailer
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+#@ theretailer
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+#, php-format
+#@ theretailer
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+#@ theretailer
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+#@ theretailer
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+#@ theretailer
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+#@ theretailer
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+#@ theretailer
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+#@ theretailer
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+#@ theretailer
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+#@ theretailer
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+#@ theretailer
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+#@ theretailer
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+#@ theretailer
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:104
+#@ theretailer
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+

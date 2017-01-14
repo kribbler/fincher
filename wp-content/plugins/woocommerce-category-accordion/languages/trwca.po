@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Category Accordion\n"
+"POT-Creation-Date: 2014-03-10 20:39+0530\n"
+"PO-Revision-Date: 2014-03-10 20:42+0530\n"
+"Last-Translator: \n"
+"Language-Team: TechieResource Team <support@techieresource.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/trwca-shortcode.php:138
+msgid "No categories"
+msgstr ""
+
+#: inc/trwca-widget.php:32
+msgid ""
+"list WooCommerce product categories and subcategories into a toggle "
+"accordion."
+msgstr ""
+
+#: inc/trwca-widget.php:34
+msgid "WC Category Accordion"
+msgstr ""
+
+#: inc/trwca-widget.php:190
+msgid "No Categories Found"
+msgstr ""
+
+#: inc/trwca-widget.php:301
+msgid "Title: "
+msgstr ""
+
+#: inc/trwca-widget.php:310
+msgid "Enable Products Count"
+msgstr ""
+
+#: inc/trwca-widget.php:318
+msgid "Hide If Empty"
+msgstr ""
+
+#: inc/trwca-widget.php:323
+msgid "Exclude Category (ID): "
+msgstr ""
+
+#: inc/trwca-widget.php:329
+msgid "Accodion Speed: "
+msgstr ""

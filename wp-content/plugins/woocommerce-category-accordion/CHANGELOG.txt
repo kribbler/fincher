@@ -1,0 +1,7 @@
+== Changelog ==
+= 1.0 =
+Plugin Name: WooCommerce Category Accordion 1.0
+
+*  Stable 1.0 Initial Release.
+
+*  Released at 10-March-2014
